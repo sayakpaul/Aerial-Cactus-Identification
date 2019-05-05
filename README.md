@@ -1,4 +1,4 @@
-Contains my experiments for the Kaggle competition [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/)
+Contains my experiments for the Kaggle competition [Aerial Cactus Identification](https://www.kaggle.com/c/aerial-cactus-identification/).
 
 **Context**
 
@@ -10,4 +10,4 @@ This dataset contains a large number of 32 x 32 thumbnail images containing aeri
 
 ![](https://www.kaggleusercontent.com/kf/13789563/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..pe5-1v2_MBeCTFb0tWuIDg.zsA6cjF-vhFdFzJNc2BNv-r0FuApmcg3jdhZivlrsVWiEvoEJwxDxQXrqEQbcmRd696Srs0NeAxnsX9Hpx3KoEOlkrB94mYeQIkAblyUTyP29mMi6YP2RY4qwfq6Z27o04ccJRw1lbS4J9IYHKFpUFTcqCnumv6HqSjmTjiMttexEUJwTh-uF0hvUM98ytYp.P81c51tY3rIgdGnWCanx8A/__results___files/__results___8_0.png)
 
-Experiments were done using [Kaggle Kernels](https://www.kaggle.com/kernels)
+Experiments were done using [Kaggle Kernels](https://www.kaggle.com/kernels).
